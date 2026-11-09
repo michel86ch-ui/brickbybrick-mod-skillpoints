@@ -7,7 +7,7 @@ Press **F10** in a world you host: **+10 skill points**. Works in every world an
 
 ## Install
 
-1. Download **[skillpoints-mod.zip](https://github.com/michel86ch-ui/brickbybrick-mod-skillpoints/raw/main/skillpoints-mod.zip)**.
+1. Download **[skillpoints-mod.zip](https://github.com/michel86ch-ui/brickbybrick-mod-skillpoints/raw/main/skillpoints-mod.zip)**. Tested with the game update of 9 November 2026.
 2. Unzip everything into the game folder, so that `winhttp.dll` sits next to `BrickByBrick.exe`
    (Steam: right-click the game > Manage > Browse local files). BepInEx already installed (e.g. with
    [Extra Buildings](https://github.com/michel86ch-ui/brickbybrick-mod))? Just overwrite, the files are the same.
